@@ -9,7 +9,7 @@ Image analysis pipeline has primarly been  used on MCF10A cells, and has been us
 See Ratnayeke et al. 2021 for methodological details.  Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
 
 ## Installation
-Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* to MATLAB path. 
+Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* and subdirectories to MATLAB path. 
 ## Usage
 For recreating plots from Ratnayeke et al. 2021, scripts are included in *Figure_generation/*. Plot*.mlx are MATLAB live scripts for generating figures. Directories are divided based on experiments (identifed by C or E followed by a number).  Please refer to key.xlsx to find the specific experiment and script for a given figure panel. To execute script, change dataDir to the location of the downloaded Dryad data files (path should specify location of .mat files) and then execute script. Files within *Processing/* are the scripts used to process images using image analysis pipeline. Files within *Supplemental/* are post-processing scripts to collate output from imaging processing pipeline with initial annotations such as cell cycle transition times. 
 
