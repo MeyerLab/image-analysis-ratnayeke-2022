@@ -7,7 +7,7 @@ Image analysis pipeline has primarly been  used on MCF10A cells, and has been us
 3) Retrospective Time-lapse Synchronized QIBC (RT-QIBC) analysis of fixed-cell microscopy, using prior information of live-cell tracking measurements of matched cells. 
 See Ratnayeke et al. 2021 for methodological details.  
 
-Pipeline is based on Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
+Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
 
 ## Installation
 Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* to MATLAB path. 
