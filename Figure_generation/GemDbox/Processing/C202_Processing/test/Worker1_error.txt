@@ -1,0 +1,32 @@
+09:50:25 : ERRROR Shot 05_02_03 after 000.2 sec
+File "H:\Nikon\C202-live\Raw\" does not exist. 
+
+09:50:32 : ERRROR Shot 05_02_03 after 000.4 sec
+Output argument "upperleft" (and maybe others) not assigned during call to "Timelapse_addIF>siteChange". 
+
+09:50:45 : ERRROR Shot 05_02_03 after 000.7 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\Cy5_5.mat'. No such file or directory. 
+
+09:51:23 : ERRROR Shot 05_02_03 after 032.9 sec
+Reference to non-existent field 'debug_mode'. 
+
+09:51:43 : ERRROR Shot 05_02_03 after 013.0 sec
+Reference to non-existent field 'debug_mode'. 
+
+10:02:35 : WARNING matching 05_02_07 fixed to 05_02_03 Lost ~11.7 perc of cells
+10:06:12 : WARNING matching 05_02_07 fixed to 05_02_03 Lost ~11.7 perc of cells
+22:18:23 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+22:19:29 : ERRROR Shot 04_07_05 after 071.2 sec
+Unable to perform assignment because the size of the left side is 275-by-27 and the size of the right side is 275-by-41. 
+
+22:20:14 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+22:21:48 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+22:23:56 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+22:35:09 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+22:35:38 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+

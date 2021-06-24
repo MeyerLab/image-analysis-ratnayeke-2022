@@ -1,0 +1,7 @@
+03:45:36 : WARNING matching 06_03_02 fixed to 06_03_02 Lost ~10.1 perc of cells
+03:50:52 : WARNING matching 07_06_12 fixed to 07_06_12 Lost ~15.6 perc of cells
+03:52:18 : WARNING matching 07_07_03 fixed to 07_07_03 Lost ~14.2 perc of cells
+03:52:58 : WARNING matching 07_07_02 fixed to 07_07_02 Lost ~21.5 perc of cells
+03:53:38 : WARNING matching 07_07_01 fixed to 07_07_01 Lost ~11.7 perc of cells
+03:54:20 : WARNING matching 07_08_05 fixed to 07_08_05 Lost ~32.6 perc of cells
+03:55:41 : WARNING matching 07_08_03 fixed to 07_08_03 Lost ~50.0 perc of cells

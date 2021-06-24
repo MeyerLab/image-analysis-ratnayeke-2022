@@ -1,0 +1,6 @@
+16:50:55 : ERRROR Shot 02_04_03 after 002.2 sec
+Cannot open file "G:\Nikon\C194-live\Raw\" for reading. You might not have read permission. 
+
+16:50:57 : ERRROR Shot 02_04_02 after 001.9 sec
+Cannot open file "G:\Nikon\C194-live\Raw\" for reading. You might not have read permission. 
+

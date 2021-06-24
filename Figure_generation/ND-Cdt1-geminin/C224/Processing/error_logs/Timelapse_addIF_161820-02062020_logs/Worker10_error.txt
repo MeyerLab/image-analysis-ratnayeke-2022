@@ -1,0 +1,42 @@
+19:12:07 : WARNING matching 06_04_08 fixed to 06_04_03 Lost ~10.5 perc of cells
+19:18:41 : ERRROR Shot 06_03_09 after 083.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 345.' 
+
+19:18:52 : ERRROR Shot 06_03_08 after 011.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:03 : ERRROR Shot 07_04_02 after 010.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:14 : ERRROR Shot 07_04_01 after 011.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:26 : ERRROR Shot 07_03_09 after 012.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:39 : ERRROR Shot 07_03_08 after 012.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:51 : ERRROR Shot 07_03_07 after 012.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:20:03 : ERRROR Shot 07_05_09 after 011.8 sec
+There is not enough space on the disk.
+ 
+
+19:20:15 : ERRROR Shot 07_05_08 after 012.3 sec
+There is not enough space on the disk.
+ 
+
+19:20:28 : ERRROR Shot 07_05_07 after 012.2 sec
+There is not enough space on the disk.
+ 
+
+19:20:40 : ERRROR Shot 07_09_07 after 012.3 sec
+There is not enough space on the disk.
+ 
+
+19:20:51 : ERRROR Shot 07_09_06 after 010.8 sec
+There is not enough space on the disk.
+ 
+

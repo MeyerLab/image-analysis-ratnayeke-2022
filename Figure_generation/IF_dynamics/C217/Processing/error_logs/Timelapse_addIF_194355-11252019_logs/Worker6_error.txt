@@ -1,0 +1,13 @@
+19:43:59 : ERRROR Shot 04_03_02 after 004.8 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_3_3\4_3_3_DAPI_1.tif" does not exist. 
+
+19:44:02 : ERRROR Shot 04_07_04 after 002.3 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_11\4_7_11_DAPI_1.tif" does not exist. 
+
+19:44:04 : ERRROR Shot 04_07_03 after 002.1 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_9\4_7_9_DAPI_1.tif" does not exist. 
+
+19:44:06 : ERRROR Shot 04_07_02 after 001.9 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_3\4_7_3_DAPI_1.tif" does not exist. 
+
+19:44:48 : WARNING matching 04_09_04 fixed to 04_09_02 Lost ~10.4 perc of cells

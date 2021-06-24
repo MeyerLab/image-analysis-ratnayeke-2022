@@ -1,0 +1,12 @@
+22:30:58 : ERRROR Shot 04_03_02 after 002.9 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_3_3\4_3_3_DAPI_1.tif" does not exist. 
+
+22:31:00 : ERRROR Shot 04_07_04 after 001.8 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_11\4_7_11_DAPI_1.tif" does not exist. 
+
+22:31:02 : ERRROR Shot 04_07_03 after 001.7 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_9\4_7_9_DAPI_1.tif" does not exist. 
+
+22:31:03 : ERRROR Shot 04_07_02 after 001.7 sec
+File "G:\8TB6\Data\IXM\C217-IF1\Raw\4_7_3\4_7_3_DAPI_1.tif" does not exist. 
+

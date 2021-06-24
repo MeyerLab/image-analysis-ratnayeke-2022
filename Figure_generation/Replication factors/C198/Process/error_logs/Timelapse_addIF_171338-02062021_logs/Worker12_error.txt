@@ -1,0 +1,6 @@
+17:14:05 : ERRROR Shot 02_04_04 after 002.1 sec
+Unable to read file 'C:\Users\Meyerlab\Documents\GitHub\cell-cycle-tracking\BGimages\IX_Liu\cmosoffset_bin1.mat'. No such file or directory. 
+
+17:14:07 : ERRROR Shot 04_02_04 after 001.7 sec
+Unable to read file 'C:\Users\Meyerlab\Documents\GitHub\cell-cycle-tracking\BGimages\IX_Liu\cmosoffset_bin1.mat'. No such file or directory. 
+

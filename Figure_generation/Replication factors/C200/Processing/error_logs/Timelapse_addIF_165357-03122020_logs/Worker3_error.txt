@@ -1,0 +1,6 @@
+17:52:48 : WARNING matching 02_11_31 fixed to 02_11_09 Lost ~11.7 perc of cells
+18:02:46 : WARNING matching 02_11_13 fixed to 02_11_06 Lost ~11.6 perc of cells
+18:29:30 : WARNING matching 02_10_29 fixed to 02_10_09 Lost ~10.4 perc of cells
+18:36:15 : WARNING matching 02_10_34 fixed to 02_10_08 Lost ~10.3 perc of cells
+19:52:50 : WARNING matching 07_06_01 fixed to 07_06_01 max jitter too high (130, 779)
+19:53:16 : WARNING matching 07_06_01 fixed to 07_06_01 Fixed to (6$d, 7$d)

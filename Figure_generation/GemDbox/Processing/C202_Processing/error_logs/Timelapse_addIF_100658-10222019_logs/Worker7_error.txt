@@ -1,0 +1,42 @@
+10:08:31 : ERRROR Shot 04_02_07 after 003.7 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_25.mat'. No such file or directory. 
+
+10:08:33 : ERRROR Shot 04_08_07 after 001.9 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_25.mat'. No such file or directory. 
+
+10:08:51 : ERRROR Shot 04_08_06 after 018.0 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:06 : ERRROR Shot 04_08_05 after 014.4 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:07 : ERRROR Shot 04_08_04 after 001.2 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+
+10:09:21 : ERRROR Shot 04_08_03 after 013.5 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:39 : ERRROR Shot 04_08_02 after 017.9 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:52 : ERRROR Shot 04_08_01 after 013.4 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:53 : ERRROR Shot 05_04_04 after 000.8 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+
+10:10:06 : ERRROR Shot 05_04_03 after 013.0 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:19 : ERRROR Shot 05_04_02 after 013.0 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:32 : ERRROR Shot 05_04_01 after 013.1 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:41 : ERRROR Shot 05_09_05 after 008.8 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:42 : ERRROR Shot 05_09_04 after 000.5 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+

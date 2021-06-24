@@ -1,0 +1,7 @@
+18:57:45 : ERROR matching 04_07_15 fixed to 04_07_05. Too many lost cells
+
+18:59:27 : ERRROR Shot 04_07_05 after 108.1 sec
+Unable to perform assignment because the size of the left side is 275-by-27 and the size of the right side is 275-by-41. 
+
+19:00:07 : ERROR matching 04_06_30 fixed to 04_06_09. Too many lost cells
+

@@ -1,0 +1,9 @@
+13:59:38 : ERRROR Shot 02_07_05 after 000.2 sec
+Cannot open file "J:\C219-live\Raw" for reading. You might not have read permission. 
+
+13:59:57 : ERRROR Shot 02_07_05 after 000.1 sec
+Cannot open file "J:\C219-live\Raw\" for reading. You might not have read permission. 
+
+14:00:48 : ERRROR Shot 02_07_05 after 000.1 sec
+Cannot open file "J:\C219-live\Raw\" for reading. You might not have read permission. 
+

@@ -1,0 +1,45 @@
+10:08:51 : ERRROR Shot 04_02_01 after 023.5 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:07 : ERRROR Shot 04_04_01 after 016.2 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:09 : ERRROR Shot 04_03_09 after 001.5 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_29.mat'. No such file or directory. 
+
+10:09:11 : ERRROR Shot 04_03_08 after 001.6 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_27.mat'. No such file or directory. 
+
+10:09:11 : ERRROR Shot 04_03_07 after 000.8 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_25.mat'. No such file or directory. 
+
+10:09:28 : ERRROR Shot 04_03_06 after 016.0 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:41 : ERRROR Shot 04_03_05 after 013.1 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:42 : ERRROR Shot 04_03_04 after 001.4 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+
+10:09:57 : ERRROR Shot 05_06_02 after 014.4 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:11 : ERRROR Shot 05_06_01 after 014.2 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:12 : ERRROR Shot 05_05_09 after 001.0 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_29.mat'. No such file or directory. 
+
+10:10:13 : ERRROR Shot 05_05_08 after 000.7 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_27.mat'. No such file or directory. 
+
+10:10:26 : ERRROR Shot 05_09_01 after 013.2 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:27 : ERRROR Shot 05_08_09 after 000.7 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_29.mat'. No such file or directory. 
+
+10:10:27 : ERRROR Shot 05_11_04 after 000.7 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+

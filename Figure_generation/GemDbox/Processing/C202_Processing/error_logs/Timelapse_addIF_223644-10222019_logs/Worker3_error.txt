@@ -1,0 +1,11 @@
+22:59:26 : ERROR matching 04_07_10 fixed to 04_07_02. Too many lost cells
+
+23:02:38 : WARNING matching 04_07_11 fixed to 04_07_01 Lost ~12.1 perc of cells
+23:03:34 : ERROR matching 04_06_30 fixed to 04_06_09. Too many lost cells
+
+04:10:32 : WARNING matching 04_06_31 fixed to 04_06_09 Lost ~16.2 perc of cells
+04:18:25 : WARNING matching 04_06_16 fixed to 04_06_05 Lost ~15.8 perc of cells
+04:21:13 : WARNING matching 05_07_08 fixed to 05_07_03 Lost ~10.2 perc of cells
+04:24:19 : ERROR matching 05_07_01 fixed to 05_07_01. Too many lost cells
+
+04:26:29 : WARNING matching 05_06_29 fixed to 05_06_09 Lost ~13.0 perc of cells

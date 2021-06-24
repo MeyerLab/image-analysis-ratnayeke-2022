@@ -1,0 +1,81 @@
+13:45:19 : ERRROR Shot 02_05_06 after 001.4 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:21 : ERRROR Shot 02_05_05 after 001.7 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:21 : ERRROR Shot 02_05_04 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:21 : ERRROR Shot 04_11_06 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:21 : ERRROR Shot 04_11_05 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:21 : ERRROR Shot 04_11_04 after 000.3 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:22 : ERRROR Shot 04_11_03 after 000.3 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:22 : ERRROR Shot 04_11_02 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:22 : ERRROR Shot 04_11_01 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:25 : ERRROR Shot 04_10_09 after 002.4 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:27 : ERRROR Shot 04_10_08 after 002.0 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_07 after 002.0 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_06 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_05 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_04 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_03 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:29 : ERRROR Shot 04_10_02 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:30 : ERRROR Shot 04_10_01 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:32 : ERRROR Shot 04_09_09 after 001.8 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:33 : ERRROR Shot 04_09_08 after 002.0 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:35 : ERRROR Shot 04_09_07 after 001.8 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:35 : ERRROR Shot 04_09_06 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:36 : ERRROR Shot 04_09_05 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:36 : ERRROR Shot 04_09_04 after 000.2 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:36 : ERRROR Shot 05_11_03 after 000.3 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:36 : ERRROR Shot 05_11_02 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+
+13:45:36 : ERRROR Shot 05_11_01 after 000.1 sec
+File "E:\Nikon\C194-live\Raw\" does not exist. 
+

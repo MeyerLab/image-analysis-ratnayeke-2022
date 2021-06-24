@@ -1,0 +1,3 @@
+22:50:37 : ERRROR Shot 03_02_01 after 106.7 sec
+The values of TEMPLATE cannot all be the same. 
+

@@ -1,0 +1,6 @@
+15:30:07 : ERRROR Shot 04_11_04 after 113.5 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:06:35 : ERRROR Shot 07_04_03 after 058.1 sec
+X must be a non-empty vector or two-column matrix. 
+

@@ -1,0 +1,17 @@
+18:27:50 : WARNING matching 02_02_19 fixed to 02_02_04 Lost ~13.4 perc of cells
+18:35:44 : WARNING matching 02_09_33 fixed to 02_09_08 Lost ~11.3 perc of cells
+18:45:57 : WARNING matching 02_08_32 fixed to 02_08_09 Lost ~14.6 perc of cells
+18:47:33 : WARNING matching 02_08_33 fixed to 02_08_08 Lost ~13.5 perc of cells
+18:48:25 : WARNING matching 02_08_36 fixed to 02_08_07 Lost ~12.5 perc of cells
+19:00:02 : WARNING matching 02_07_36 fixed to 02_07_07 Lost ~10.0 perc of cells
+19:00:19 : WARNING matching 02_07_35 fixed to 02_07_07 Lost ~11.7 perc of cells
+19:09:11 : WARNING matching 02_06_32 fixed to 02_06_09 Lost ~13.5 perc of cells
+19:10:44 : WARNING matching 02_06_33 fixed to 02_06_08 Lost ~13.6 perc of cells
+19:11:54 : WARNING matching 02_06_35 fixed to 02_06_07 Lost ~15.9 perc of cells
+19:20:35 : WARNING matching 02_05_30 fixed to 02_05_09 Lost ~10.2 perc of cells
+19:20:52 : WARNING matching 02_05_32 fixed to 02_05_09 Lost ~12.5 perc of cells
+19:22:20 : WARNING matching 02_05_33 fixed to 02_05_08 Lost ~16.2 perc of cells
+19:23:14 : WARNING matching 02_05_36 fixed to 02_05_07 Lost ~12.4 perc of cells
+19:23:31 : WARNING matching 02_05_35 fixed to 02_05_07 Lost ~11.6 perc of cells
+19:26:06 : WARNING matching 02_05_21 fixed to 02_05_05 Lost ~11.4 perc of cells
+19:27:04 : WARNING matching 02_05_20 fixed to 02_05_04 Lost ~10.5 perc of cells

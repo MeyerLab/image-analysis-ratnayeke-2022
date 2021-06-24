@@ -1,0 +1,45 @@
+11:02:31 : ERRROR Shot 04_03_02 after 003.6 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_3.mat'. No such file or directory. 
+
+11:02:34 : ERRROR Shot 04_11_08 after 002.5 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_27.mat'. No such file or directory. 
+
+11:02:37 : ERRROR Shot 04_11_07 after 003.1 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_25.mat'. No such file or directory. 
+
+11:02:40 : ERRROR Shot 04_11_06 after 002.5 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_13.mat'. No such file or directory. 
+
+11:02:43 : ERRROR Shot 04_11_05 after 003.2 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_15.mat'. No such file or directory. 
+
+11:02:46 : ERRROR Shot 04_11_04 after 002.8 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_17.mat'. No such file or directory. 
+
+11:02:49 : ERRROR Shot 04_11_03 after 003.0 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_5.mat'. No such file or directory. 
+
+11:02:52 : ERRROR Shot 04_11_02 after 002.6 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_3.mat'. No such file or directory. 
+
+11:02:54 : ERRROR Shot 05_04_04 after 002.2 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_17.mat'. No such file or directory. 
+
+11:02:56 : ERRROR Shot 05_04_03 after 002.3 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_5.mat'. No such file or directory. 
+
+11:02:58 : ERRROR Shot 05_04_02 after 002.0 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_3.mat'. No such file or directory. 
+
+11:03:01 : ERRROR Shot 05_04_01 after 002.8 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_1.mat'. No such file or directory. 
+
+11:03:03 : ERRROR Shot 05_09_07 after 002.2 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_25.mat'. No such file or directory. 
+
+11:03:06 : ERRROR Shot 05_09_06 after 002.5 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_13.mat'. No such file or directory. 
+
+11:03:08 : ERRROR Shot 05_11_05 after 002.3 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_15.mat'. No such file or directory. 
+

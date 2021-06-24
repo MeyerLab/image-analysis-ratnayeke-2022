@@ -1,0 +1,4 @@
+10:19:33 : WARNING matching 02_06_32 fixed to 02_06_09 Lost ~11.1 perc of cells
+09:32:45 : ERROR matching 02_02_36 fixed to 02_02_07. Too many lost cells
+
+10:29:28 : WARNING matching 03_09_22 fixed to 03_09_05 Lost ~10.6 perc of cells

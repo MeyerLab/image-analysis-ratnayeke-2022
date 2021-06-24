@@ -1,0 +1,6 @@
+17:30:56 : ERRROR Shot 04_02_01 after 000.3 sec
+File "I:\4TB6\Data\C163-live\Raw\4_2_1\4_2_1_CFP_81.tif" does not exist. 
+
+17:31:11 : ERRROR Shot 04_02_01 after 002.3 sec
+Unable to read file 'I:\4TB9\Data\C167-IF1\Bias\DAPI_1.mat'. No such file or directory. 
+

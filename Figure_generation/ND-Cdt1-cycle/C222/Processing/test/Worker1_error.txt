@@ -1,0 +1,12 @@
+20:14:08 : ERRROR Shot 02_02_01 after 001.7 sec
+Unable to read file 'J:\Nalin\C217-IF2\Bias\DAPI_1.mat'. No such file or directory. 
+
+20:15:06 : ERRROR Shot 02_02_01 after 019.7 sec
+Reference to non-existent field 'maxjit'. 
+
+21:58:51 : ERRROR Shot 02_02_01 after 000.4 sec
+File "G:\8TB6\Data\IXM\Nalin\C217-live\Raw\2_2_1\2_2_1_CFP_127.tif" does not exist. 
+
+19:02:07 : ERRROR Shot 02_07_05 after 001.5 sec
+Unable to read file 'K:\Nikon\C222-IF2\Bias\DAPI_15.mat'. No such file or directory. 
+

@@ -1,0 +1,42 @@
+11:02:32 : ERRROR Shot 04_02_09 after 003.9 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_29.mat'. No such file or directory. 
+
+11:02:35 : ERRROR Shot 04_10_03 after 003.7 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_5.mat'. No such file or directory. 
+
+11:02:39 : ERRROR Shot 04_10_02 after 003.5 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_3.mat'. No such file or directory. 
+
+11:02:44 : ERRROR Shot 04_10_01 after 004.8 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_1.mat'. No such file or directory. 
+
+11:02:47 : ERRROR Shot 04_09_09 after 002.6 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_29.mat'. No such file or directory. 
+
+11:02:51 : ERRROR Shot 04_09_08 after 004.0 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_27.mat'. No such file or directory. 
+
+11:02:54 : ERRROR Shot 04_09_07 after 002.9 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_25.mat'. No such file or directory. 
+
+11:02:56 : ERRROR Shot 04_09_06 after 002.1 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_13.mat'. No such file or directory. 
+
+11:02:58 : ERRROR Shot 05_06_06 after 002.1 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_13.mat'. No such file or directory. 
+
+11:03:00 : ERRROR Shot 05_06_05 after 002.5 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_15.mat'. No such file or directory. 
+
+11:03:03 : ERRROR Shot 05_06_04 after 002.4 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_17.mat'. No such file or directory. 
+
+11:03:05 : ERRROR Shot 05_06_03 after 002.3 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_5.mat'. No such file or directory. 
+
+11:03:07 : ERRROR Shot 05_10_06 after 002.0 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_13.mat'. No such file or directory. 
+
+11:03:09 : ERRROR Shot 05_10_05 after 001.6 sec
+Unable to read file 'I:\Nikon\C202-IF2\Bias\DAPI_15.mat'. No such file or directory. 
+

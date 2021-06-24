@@ -1,0 +1,42 @@
+18:29:21 : WARNING matching 03_11_06 fixed to 03_11_03 Lost ~10.3 perc of cells
+19:18:50 : ERRROR Shot 06_05_02 after 078.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:03 : ERRROR Shot 06_05_01 after 012.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:15 : ERRROR Shot 07_04_07 after 012.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:27 : ERRROR Shot 07_04_06 after 011.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:38 : ERRROR Shot 07_04_05 after 011.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:19:50 : ERRROR Shot 07_04_04 after 011.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+19:20:03 : ERRROR Shot 07_04_03 after 012.9 sec
+Unable to open file "K:\Nikon\C224-IFcrop\7_4_5\7_4_5_DAPI__round1.tif" for writing.  You might not have write permission. 
+
+19:20:15 : ERRROR Shot 07_07_09 after 012.1 sec
+There is not enough space on the disk.
+ 
+
+19:20:27 : ERRROR Shot 07_07_08 after 012.3 sec
+There is not enough space on the disk.
+ 
+
+19:20:40 : ERRROR Shot 07_07_07 after 012.4 sec
+There is not enough space on the disk.
+ 
+
+19:20:51 : ERRROR Shot 07_10_08 after 011.3 sec
+There is not enough space on the disk.
+ 
+
+19:21:01 : ERRROR Shot 07_10_07 after 009.4 sec
+There is not enough space on the disk.
+ 
+

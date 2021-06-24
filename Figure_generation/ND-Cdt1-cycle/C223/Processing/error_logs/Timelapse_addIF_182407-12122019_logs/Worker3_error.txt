@@ -1,0 +1,12 @@
+18:35:44 : ERROR matching 03_09_19 fixed to 03_09_04. Too many lost cells
+
+18:43:24 : WARNING matching 03_08_35 fixed to 03_08_07 Lost ~10.2 perc of cells
+18:48:22 : WARNING matching 03_08_08 fixed to 03_08_03 Lost ~11.4 perc of cells
+18:50:02 : WARNING matching 03_08_09 fixed to 03_08_02 Lost ~15.1 perc of cells
+19:22:21 : WARNING matching 03_05_19 fixed to 03_05_04 Lost ~10.1 perc of cells
+20:01:22 : WARNING matching 07_02_18 fixed to 07_02_04 Lost ~14.7 perc of cells
+20:03:10 : WARNING matching 07_02_07 fixed to 07_02_03 Lost ~23.0 perc of cells
+20:08:47 : WARNING matching 06_11_25 fixed to 06_11_07 Lost ~10.2 perc of cells
+20:13:52 : WARNING matching 07_08_05 fixed to 07_08_03 Lost ~15.0 perc of cells
+20:15:22 : WARNING matching 07_08_04 fixed to 07_08_02 Lost ~14.6 perc of cells
+20:20:17 : WARNING matching 07_11_13 fixed to 07_11_06 Lost ~11.7 perc of cells

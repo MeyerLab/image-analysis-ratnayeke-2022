@@ -1,0 +1,10 @@
+19:41:32 : ERROR matching 03_08_14 fixed to 03_08_06. Too many lost cells
+
+19:43:42 : ERROR matching 03_08_15 fixed to 03_08_05. Too many lost cells
+
+19:43:57 : ERROR matching 03_08_16 fixed to 03_08_05. Too many lost cells
+
+19:52:52 : WARNING matching 03_08_08 fixed to 03_08_03 Lost ~10.5 perc of cells
+19:56:10 : WARNING matching 03_08_04 fixed to 03_08_02 Lost ~11.3 perc of cells
+19:57:39 : ERROR matching 03_08_09 fixed to 03_08_02. Too many lost cells
+

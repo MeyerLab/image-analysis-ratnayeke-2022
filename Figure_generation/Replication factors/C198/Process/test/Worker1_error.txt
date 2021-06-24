@@ -1,0 +1,18 @@
+18:05:00 : ERRROR Shot 05_02_01 after 000.0 sec
+Undefined function or variable 'shot'. 
+
+18:05:32 : ERRROR Shot 05_02_01 after 000.1 sec
+File "H:\8TB4\Data\C198-live\Raw\5_2_1\5_2_1_\5_2_1_CFP_20.tif" does not exist. 
+
+18:06:39 : ERRROR Shot 05_02_01 after 000.0 sec
+File "H:\8TB4\Data\C198-live\Raw\5_2_1\5_2_1_\5_2_1_CFP_20.tif" does not exist. 
+
+18:07:01 : ERRROR Shot 05_02_01 after 000.0 sec
+File "H:\8TB4\Data\C198-live\Raw\5_2_1\5_2_1_\5_2_1_CFP_20.tif" does not exist. 
+
+18:08:38 : ERRROR Shot 05_02_01 after 000.6 sec
+Unable to read file 'H:\8TB4\Data\C198-IF1\Bias\DAPI_1.mat'. No such file or directory. 
+
+17:13:38 : ERRROR Shot 05_02_01 after 000.5 sec
+Unable to read file 'C:\Users\Meyerlab\Documents\GitHub\cell-cycle-tracking\BGimages\IX_Liu\cmosoffset_bin1.mat'. No such file or directory. 
+

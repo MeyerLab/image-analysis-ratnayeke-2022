@@ -1,0 +1,11 @@
+15:30:07 : ERRROR Shot 04_11_04 after 113.5 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:06:35 : ERRROR Shot 07_04_03 after 058.1 sec
+X must be a non-empty vector or two-column matrix. 
+
+15:18:43 : ERRROR Shot 02_03_01 after 031.7 sec
+X must be a non-empty vector or two-column matrix. 
+
+15:42:13 : WARNING matching 07_02_04 fixed to 07_02_02 Lost ~12.3 perc of cells
+15:23:18 : WARNING matching 04_02_04 fixed to 04_02_02 Lost ~10.6 perc of cells

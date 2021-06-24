@@ -1,0 +1,23 @@
+15:03:48 : ERRROR Shot 02_07_02 after 001.6 sec
+Unable to read file 'K:\C225-IF2\Bias_all\DAPI_3.mat'. No such file or directory. 
+
+15:04:10 : ERRROR Shot 02_07_02 after 001.3 sec
+Unable to read file 'K:\C225-IF2\Bias\DAPI_3.mat'. No such file or directory. 
+
+15:13:13 : WARNING matching 02_07_09 fixed to 02_07_02 Lost ~14.8 perc of cells
+15:13:27 : WARNING matching 02_07_10 fixed to 02_07_02 Lost ~15.0 perc of cells
+16:18:15 : ERRROR Shot 07_04_03 after 245.7 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:20:47 : ERRROR Shot 07_04_03 after 144.8 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:28:41 : ERRROR Shot 07_04_03 after 040.2 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:32:13 : ERRROR Shot 07_04_03 after 123.6 sec
+X must be a non-empty vector or two-column matrix. 
+
+16:44:42 : ERRROR Shot 07_04_03 after 737.0 sec
+X must be a non-empty vector or two-column matrix. 
+

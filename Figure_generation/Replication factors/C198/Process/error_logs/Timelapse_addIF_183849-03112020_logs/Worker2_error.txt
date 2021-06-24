@@ -1,0 +1,48 @@
+18:38:49 : ERRROR Shot 02_02_02 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\2_2_2\2_2_2_CFP_20.tif" does not exist. 
+
+18:38:50 : ERRROR Shot 02_09_04 after 000.3 sec
+File "H:\8TB4\Data\C198-live\Raw\2_9_4\2_9_4_CFP_20.tif" does not exist. 
+
+18:38:50 : ERRROR Shot 02_09_03 after 000.5 sec
+File "H:\8TB4\Data\C198-live\Raw\2_9_3\2_9_3_CFP_20.tif" does not exist. 
+
+18:38:50 : ERRROR Shot 02_09_02 after 000.1 sec
+File "H:\8TB4\Data\C198-live\Raw\2_9_2\2_9_2_CFP_20.tif" does not exist. 
+
+18:38:50 : ERRROR Shot 02_09_01 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\2_9_1\2_9_1_CFP_20.tif" does not exist. 
+
+18:38:51 : ERRROR Shot 02_08_04 after 000.3 sec
+File "H:\8TB4\Data\C198-live\Raw\2_8_4\2_8_4_CFP_20.tif" does not exist. 
+
+18:38:51 : ERRROR Shot 02_08_03 after 000.0 sec
+File "H:\8TB4\Data\C198-live\Raw\2_8_3\2_8_3_CFP_20.tif" does not exist. 
+
+18:38:51 : ERRROR Shot 02_08_02 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\2_8_2\2_8_2_CFP_20.tif" does not exist. 
+
+18:38:51 : ERRROR Shot 02_08_01 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\2_8_1\2_8_1_CFP_20.tif" does not exist. 
+
+18:38:51 : ERRROR Shot 02_07_04 after 000.1 sec
+File "H:\8TB4\Data\C198-live\Raw\2_7_4\2_7_4_CFP_20.tif" does not exist. 
+
+18:38:52 : ERRROR Shot 02_07_03 after 000.4 sec
+File "H:\8TB4\Data\C198-live\Raw\2_7_3\2_7_3_CFP_20.tif" does not exist. 
+
+18:38:52 : ERRROR Shot 06_09_04 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\6_9_4\6_9_4_CFP_20.tif" does not exist. 
+
+18:38:52 : ERRROR Shot 06_09_03 after 000.1 sec
+File "H:\8TB4\Data\C198-live\Raw\6_9_3\6_9_3_CFP_20.tif" does not exist. 
+
+18:38:52 : ERRROR Shot 06_09_02 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\6_9_2\6_9_2_CFP_20.tif" does not exist. 
+
+18:38:53 : ERRROR Shot 06_09_01 after 000.4 sec
+File "H:\8TB4\Data\C198-live\Raw\6_9_1\6_9_1_CFP_20.tif" does not exist. 
+
+18:38:53 : ERRROR Shot 06_08_04 after 000.2 sec
+File "H:\8TB4\Data\C198-live\Raw\6_8_4\6_8_4_CFP_20.tif" does not exist. 
+

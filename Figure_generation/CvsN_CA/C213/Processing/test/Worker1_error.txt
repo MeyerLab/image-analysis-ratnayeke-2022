@@ -1,0 +1,6 @@
+11:17:54 : ERRROR Shot 06_03_05 after 001.2 sec
+Unable to read file 'I:\Nikon\C211-IF1\Bias\FarRed_15.mat'. No such file or directory. 
+
+11:39:55 : ERRROR Shot 06_03_05 after 1295.2 sec
+Index exceeds the number of array elements (2). 
+

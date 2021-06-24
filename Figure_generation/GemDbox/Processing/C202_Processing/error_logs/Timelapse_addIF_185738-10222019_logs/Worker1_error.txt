@@ -1,0 +1,7 @@
+18:59:13 : WARNING matching 05_07_08 fixed to 05_07_03 Lost ~10.2 perc of cells
+19:02:20 : ERROR matching 05_07_01 fixed to 05_07_01. Too many lost cells
+
+19:04:04 : ERRROR Shot 05_07_01 after 111.7 sec
+Unable to perform assignment because the size of the left side is 475-by-27 and the size of the right side is 475-by-41. 
+
+19:04:29 : WARNING matching 05_06_29 fixed to 05_06_09 Lost ~13.0 perc of cells

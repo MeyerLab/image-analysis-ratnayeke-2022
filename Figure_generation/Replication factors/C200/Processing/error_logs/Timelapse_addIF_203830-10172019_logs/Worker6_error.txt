@@ -1,0 +1,2 @@
+23:17:07 : WARNING matching 05_04_03 fixed to 05_04_02 max jitter too high (847, 0)
+23:17:52 : WARNING matching 05_04_03 fixed to 05_04_02 Fixed to (6$d, 7$d)

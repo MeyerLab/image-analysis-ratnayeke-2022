@@ -1,0 +1,3 @@
+13:45:43 : ERRROR Shot 02_03_04 after 080.7 sec
+Out of memory. Type "help memory" for your options. 
+

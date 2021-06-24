@@ -1,0 +1,13 @@
+09:01:00 : ERRROR Shot 07_06_04 after 011.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+09:01:43 : ERRROR Shot 07_06_04 after 014.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+09:02:02 : ERRROR Shot 07_06_04 after 010.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+09:03:40 : ERRROR Shot 07_06_04 after 023.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+11:58:52 : WARNING matching 07_06_18 fixed to 07_06_04 Lost ~11.1 perc of cells

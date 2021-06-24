@@ -1,0 +1,9 @@
+18:32:18 : ERRROR Shot 06_02_03 after 012.8 sec
+Invalid TIFF image index 3. 
+
+18:33:21 : ERRROR Shot 06_02_03 after 018.5 sec
+Reference to non-existent field 'maxjit'. 
+
+18:36:16 : ERRROR Shot 06_02_03 after 012.1 sec
+Reference to non-existent field 'maxjit'. 
+

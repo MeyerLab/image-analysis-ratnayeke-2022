@@ -1,0 +1,15 @@
+08:58:28 : ERRROR Shot 07_06_04 after 024.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+08:58:45 : ERRROR Shot 07_06_03 after 017.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 217.' 
+
+08:59:09 : ERRROR Shot 07_06_02 after 023.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+08:59:28 : ERRROR Shot 07_06_01 after 018.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+08:59:47 : ERRROR Shot 07_05_09 after 018.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+

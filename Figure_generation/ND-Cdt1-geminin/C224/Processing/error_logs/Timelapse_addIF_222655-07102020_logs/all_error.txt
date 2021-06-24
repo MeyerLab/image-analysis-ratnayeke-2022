@@ -1,0 +1,324 @@
+22:54:48 : WARNING matching 02_09_24 fixed to 02_09_06 Lost ~11.0 perc of cells
+23:12:09 : WARNING matching 02_08_31 fixed to 02_08_09 Lost ~10.5 perc of cells
+23:17:26 : WARNING matching 02_08_35 fixed to 02_08_07 Lost ~10.2 perc of cells
+23:27:36 : WARNING matching 02_08_08 fixed to 02_08_03 Lost ~10.2 perc of cells
+23:36:44 : WARNING matching 02_07_31 fixed to 02_07_09 Lost ~13.5 perc of cells
+23:41:15 : WARNING matching 02_07_36 fixed to 02_07_07 Lost ~12.8 perc of cells
+00:22:23 : WARNING matching 02_05_31 fixed to 02_05_09 Lost ~11.3 perc of cells
+00:27:02 : WARNING matching 02_05_36 fixed to 02_05_07 Lost ~10.1 perc of cells
+00:35:02 : WARNING matching 02_05_20 fixed to 02_05_04 Lost ~13.9 perc of cells
+00:53:18 : WARNING matching 06_07_06 fixed to 06_07_03 Lost ~13.1 perc of cells
+01:48:33 : ERRROR Shot 06_08_06 after 144.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:51 : ERRROR Shot 06_08_05 after 018.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:09 : ERRROR Shot 06_08_04 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:28 : ERRROR Shot 06_08_03 after 019.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:46 : ERRROR Shot 06_08_02 after 018.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:14 : ERRROR Shot 06_08_01 after 027.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:32 : ERRROR Shot 07_05_08 after 018.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:50 : ERRROR Shot 07_05_07 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:07 : ERRROR Shot 07_05_06 after 017.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:24 : ERRROR Shot 07_05_05 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:41 : ERRROR Shot 07_05_04 after 017.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:00 : ERRROR Shot 07_11_09 after 018.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:18 : ERRROR Shot 07_11_08 after 018.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:36 : ERRROR Shot 07_11_07 after 018.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:54 : ERRROR Shot 07_11_06 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:53:09 : ERRROR Shot 07_11_05 after 015.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+23:55:03 : WARNING matching 02_11_31 fixed to 02_11_09 Lost ~15.0 perc of cells
+00:09:43 : WARNING matching 02_11_06 fixed to 02_11_03 Lost ~13.4 perc of cells
+00:21:45 : WARNING matching 02_10_33 fixed to 02_10_08 Lost ~11.5 perc of cells
+01:12:13 : WARNING matching 06_04_08 fixed to 06_04_03 Lost ~11.0 perc of cells
+01:48:41 : ERRROR Shot 07_02_03 after 018.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:58 : ERRROR Shot 07_02_02 after 016.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:16 : ERRROR Shot 07_02_01 after 018.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:33 : ERRROR Shot 06_11_09 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:51 : ERRROR Shot 06_11_08 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:08 : ERRROR Shot 06_11_07 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:26 : ERRROR Shot 07_07_05 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:43 : ERRROR Shot 07_07_04 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:01 : ERRROR Shot 07_07_03 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:18 : ERRROR Shot 07_07_02 after 017.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:36 : ERRROR Shot 07_07_01 after 017.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:53 : ERRROR Shot 07_11_04 after 017.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:10 : ERRROR Shot 07_11_03 after 016.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:27 : ERRROR Shot 07_11_02 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:45 : ERRROR Shot 07_11_01 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:53:02 : ERRROR Shot 07_10_09 after 017.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+22:37:29 : WARNING matching 02_03_06 fixed to 02_03_03 Lost ~14.5 perc of cells
+23:25:09 : WARNING matching 03_07_31 fixed to 03_07_09 Lost ~12.5 perc of cells
+00:43:50 : WARNING matching 06_03_01 fixed to 06_03_01 Lost ~13.2 perc of cells
+01:25:19 : WARNING matching 05_11_20 fixed to 05_11_04 Lost ~12.4 perc of cells
+01:48:30 : ERRROR Shot 07_03_05 after 017.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:48 : ERRROR Shot 07_03_04 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:06 : ERRROR Shot 07_03_03 after 017.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:23 : ERRROR Shot 07_03_02 after 017.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:47 : ERRROR Shot 07_03_01 after 024.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:05 : ERRROR Shot 07_02_09 after 018.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:23 : ERRROR Shot 07_06_04 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:41 : ERRROR Shot 07_06_03 after 017.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:59 : ERRROR Shot 07_06_02 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:16 : ERRROR Shot 07_06_01 after 017.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:33 : ERRROR Shot 07_05_09 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:51 : ERRROR Shot 07_10_08 after 017.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:10 : ERRROR Shot 07_10_07 after 018.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:28 : ERRROR Shot 07_10_06 after 018.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:46 : ERRROR Shot 07_10_05 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:53:02 : ERRROR Shot 07_10_04 after 016.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+22:36:22 : WARNING matching 02_03_31 fixed to 02_03_09 Lost ~10.4 perc of cells
+22:40:59 : WARNING matching 02_03_36 fixed to 02_03_07 Lost ~14.0 perc of cells
+22:46:25 : WARNING matching 04_04_08 fixed to 04_04_03 Lost ~11.8 perc of cells
+22:55:23 : WARNING matching 04_03_31 fixed to 04_03_09 Lost ~10.3 perc of cells
+23:19:05 : WARNING matching 04_02_32 fixed to 04_02_09 Lost ~10.3 perc of cells
+23:56:14 : WARNING matching 03_11_18 fixed to 03_11_04 Lost ~11.2 perc of cells
+23:59:05 : WARNING matching 03_11_06 fixed to 03_11_03 Lost ~11.6 perc of cells
+00:32:38 : WARNING matching 03_09_31 fixed to 03_09_09 Lost ~10.3 perc of cells
+01:48:14 : ERRROR Shot 07_04_08 after 109.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 930.' 
+
+01:48:34 : ERRROR Shot 07_04_07 after 020.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:52 : ERRROR Shot 07_04_06 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:09 : ERRROR Shot 07_04_05 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:27 : ERRROR Shot 07_04_04 after 018.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:45 : ERRROR Shot 07_04_03 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:02 : ERRROR Shot 07_04_02 after 017.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:19 : ERRROR Shot 07_08_06 after 017.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:37 : ERRROR Shot 07_08_05 after 017.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:54 : ERRROR Shot 07_08_04 after 017.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:11 : ERRROR Shot 07_08_03 after 017.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:28 : ERRROR Shot 07_08_02 after 016.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:46 : ERRROR Shot 07_09_07 after 018.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:04 : ERRROR Shot 07_09_06 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:21 : ERRROR Shot 07_09_05 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:40 : ERRROR Shot 07_09_04 after 018.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:57 : ERRROR Shot 07_09_03 after 017.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:32:39 : WARNING matching 05_04_01 fixed to 05_04_01 Lost ~10.6 perc of cells
+01:48:14 : ERRROR Shot 06_09_09 after 144.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:34 : ERRROR Shot 06_09_08 after 020.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:52 : ERRROR Shot 06_09_07 after 018.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:11 : ERRROR Shot 06_09_06 after 018.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:28 : ERRROR Shot 06_09_05 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:46 : ERRROR Shot 06_09_04 after 017.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:04 : ERRROR Shot 06_09_03 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:21 : ERRROR Shot 07_08_01 after 016.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:38 : ERRROR Shot 07_07_09 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:56 : ERRROR Shot 07_07_08 after 017.6 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:14 : ERRROR Shot 07_07_07 after 018.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:32 : ERRROR Shot 07_07_06 after 018.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:49 : ERRROR Shot 07_10_03 after 016.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:07 : ERRROR Shot 07_10_02 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:25 : ERRROR Shot 07_10_01 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:43 : ERRROR Shot 07_09_09 after 018.2 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:53:01 : ERRROR Shot 07_09_08 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+23:33:23 : WARNING matching 04_11_31 fixed to 04_11_09 Lost ~10.8 perc of cells
+00:16:08 : WARNING matching 04_10_09 fixed to 04_10_02 Lost ~10.5 perc of cells
+01:19:17 : WARNING matching 05_09_06 fixed to 05_09_03 Lost ~11.8 perc of cells
+01:48:14 : ERRROR Shot 06_11_01 after 021.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 992.' 
+
+01:48:32 : ERRROR Shot 06_10_09 after 018.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:48:49 : ERRROR Shot 06_10_08 after 017.5 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:08 : ERRROR Shot 06_10_07 after 019.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:28 : ERRROR Shot 06_10_06 after 019.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:49:45 : ERRROR Shot 06_10_05 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:03 : ERRROR Shot 07_06_09 after 017.9 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:22 : ERRROR Shot 07_06_08 after 018.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:40 : ERRROR Shot 07_06_07 after 018.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:50:58 : ERRROR Shot 07_06_06 after 017.4 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:15 : ERRROR Shot 07_06_05 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:51:33 : ERRROR Shot 07_09_02 after 017.3 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:04 : ERRROR Shot 07_09_01 after 031.1 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:22 : ERRROR Shot 07_08_09 after 017.7 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:39 : ERRROR Shot 07_08_08 after 017.8 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+
+01:52:57 : ERRROR Shot 07_08_07 after 018.0 sec
+TIFF library error - 'TIFFAppendToStrip:  Write error at scanline 0.' 
+

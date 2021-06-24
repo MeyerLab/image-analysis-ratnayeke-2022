@@ -1,0 +1,48 @@
+10:08:52 : ERRROR Shot 04_03_02 after 024.7 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:08:55 : ERRROR Shot 04_11_08 after 002.1 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_27.mat'. No such file or directory. 
+
+10:08:56 : ERRROR Shot 04_11_07 after 000.9 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_25.mat'. No such file or directory. 
+
+10:09:09 : ERRROR Shot 04_11_06 after 013.4 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:25 : ERRROR Shot 04_11_05 after 016.1 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:27 : ERRROR Shot 04_11_04 after 002.0 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_17.mat'. No such file or directory. 
+
+10:09:43 : ERRROR Shot 04_11_03 after 015.5 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:57 : ERRROR Shot 04_11_02 after 013.7 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:09:58 : ERRROR Shot 05_07_09 after 000.9 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_29.mat'. No such file or directory. 
+
+10:09:58 : ERRROR Shot 05_07_08 after 000.9 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_27.mat'. No such file or directory. 
+
+10:09:59 : ERRROR Shot 05_07_07 after 000.8 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_25.mat'. No such file or directory. 
+
+10:10:13 : ERRROR Shot 05_07_06 after 013.5 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:14 : ERRROR Shot 05_09_09 after 000.9 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_29.mat'. No such file or directory. 
+
+10:10:15 : ERRROR Shot 05_09_08 after 001.2 sec
+Unable to read file 'I:\Nikon\C202-IF1\Bias\DAPI_27.mat'. No such file or directory. 
+
+10:10:28 : ERRROR Shot 05_11_05 after 012.7 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
+10:10:38 : ERRROR Shot 05_11_06 after 009.5 sec
+You must call TIC without an output argument before calling TOC without an input argument. 
+
