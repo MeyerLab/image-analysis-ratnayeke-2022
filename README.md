@@ -11,6 +11,6 @@ See Ratnayeke et al. 2021 for methodological details.  Pipeline was written base
 ## Installation
 Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* to MATLAB path. 
 ## Usage
-For recreating plots from Ratnayeke et al. 2021, scripts are included in *Figure_generation/*. Please refer to key.xlsx to find the specific script for a given figure panel. To execute script, change dataDir to the location of the downloaded Dryad data files (path should specify location of .mat files) and then execute script.
+For recreating plots from Ratnayeke et al. 2021, scripts are included in *Figure_generation/*. Plot*.mlx are MATLAB live scripts for generating figures. Directories are divided based on experiments (identifed by C or E followed by a number).  Please refer to key.xlsx to find the specific experiment and script for a given figure panel. To execute script, change dataDir to the location of the downloaded Dryad data files (path should specify location of .mat files) and then execute script. Files within *Processing/* are the scripts used to process images using image analysis pipeline. Files within *Supplemental/* are post-processing scripts to collate output from imaging processing pipeline with initial annotations such as cell cycle transition times. 
 
 For general tracking pipeline usage *Tracking_main/* contains main functions for analysis, and example scripts are included for proper usage in  *Tracking_main/Examples*. For consolidating raw processed single-cell data from pipeline, example code is found in *Example_analysis/*.
