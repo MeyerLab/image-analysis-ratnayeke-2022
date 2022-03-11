@@ -6,7 +6,7 @@ Image analysis pipeline has primarly been  used on MCF-10A cells, and has been u
 2) Quantitative image-based cytometry (QIBC) analysis of fixed-cell microscopy, with capabilities to handle multi-round imaging of the same sample.
 3) Retrospective Time-lapse Synchronized QIBC (RT-QIBC) analysis of fixed-cell microscopy, using prior information from live-cell tracking measurements of matched cells. 
 
-See Ratnayeke et al. 2021 for methodological details.  Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
+See Ratnayeke et al. 2021, bioRxiv (https://doi.org/10.1101/2021.07.06.451311) for methodological details.  Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
 
 ## Installation
 Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* and subdirectories to MATLAB path. 
