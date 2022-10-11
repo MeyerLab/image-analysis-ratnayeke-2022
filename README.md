@@ -1,4 +1,4 @@
-# image-analysis-ratnayeke-2021
+# image-analysis-ratnayeke-2022
 Analysis and plotting code used for Ratnayeke et al. 2021. Included are scripts for generating all figures in paper, as well as the timelapse and fixed microscopy image analysis pipeline used to process imaging experiments. Processed data (single-cell measurements) can be downloaded from Dryad (https://doi.org/10.5061/dryad.4xgxd2599) for use in plotting scripts. Plots have been pre-generated and included in folders from the executed scripts. 
 
 Image analysis pipeline has primarly been  used on MCF-10A cells, and has been used on HeLa and RPE-1 cells. This pipeline has the following functionaliy:
@@ -6,7 +6,7 @@ Image analysis pipeline has primarly been  used on MCF-10A cells, and has been u
 2) Quantitative image-based cytometry (QIBC) analysis of fixed-cell microscopy, with capabilities to handle multi-round imaging of the same sample.
 3) Retrospective Time-lapse Synchronized QIBC (RT-QIBC) analysis of fixed-cell microscopy, using prior information from live-cell tracking measurements of matched cells. 
 
-See Ratnayeke et al. 2021 for methodological details.  Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
+See Ratnayeke et al. 2021, bioRxiv (https://doi.org/10.1101/2021.07.06.451311) for methodological details.  Pipeline was written based on code from Cappell et al., 2016, Cell 166, 167-180. June 30, 2016. 
 
 ## Installation
 Add */image-analysis-ratnayeke-2021/Tracking_code/Tracking_dependencies/* and subdirectories to MATLAB path. 
