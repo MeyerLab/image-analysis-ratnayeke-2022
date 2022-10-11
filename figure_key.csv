@@ -1,68 +1,88 @@
-﻿Figure,Directory (within Figure_generation)
-1B,3i_dynamics\Plot.mlx
-1C,IF_dynamics\C217\Plot_diagram.mlx
-1D,CvsN_CA\C213\Plot.mlx
-1E,GemDbox\Plot_C206.mlx and GemDbox\Plot_cdt1.mlx
-1F,IF_dynamics\C217\Plot.mlx and GemDbox\Plot_C206.mlx
-1G,IF_dynamics\C217\Plot.mlx
-S1A,3i_dynamics\Plot.mlx
-S1B,CvsN_CA\C213\Plot.mlx
-S1C,CvsN_CA\C213\Plot.mlx
-S1D,CActerm_preext\C219\Plot.mlx
-S1E,IF_dynamics\C182\Plot.mlx
-2A,IF_dynamics\C204\Plot.mlx
-2B,Cdt1-starve\C184\Plot.mlx
-2C,Cdt1-starve\C184\Plot.mlx
-2D,ND-Cdt1-cycle\C222\Plot2.mlx
-2E,ND-Cdt1-cycle\C223\Plot2.mlx and ND-Cdt1-cycle\C222\Plot2.mlx
-2F,ND-Cdt1-geminin\C224\Plot.mlx
-S2A,Cdt1-starve\C184\Plot.mlx
-S2B,ND-Cdt1-geminin\C224\Plot.mlx
-S2C,Cdt1-starve\C184\calibration\Plot.mlx
-S2D,ND-Cdt1-dynamics\E1099\Plot.mlx
-S2E,ND-Cdt1-cycle\C222\Plot1.mlx
-S2F,ND-Cdt1-geminin\C224\Plot.mlx
-S2G,ND-Cdt1-geminin\C224\Plot.mlx
-S2H,Replication factors\C124\Plot.mlx
-S2I,U2OS\A59\Plot.mlx
-S2J,HeLa\C134\Plot.mlx
-3A,MLN\E1037\Plot.mlx
-3B,MLN\E1086\Plot.mlx
-3D,ND-Cdt1-geminin\C224\Plot.mlx
-3E,ND-Cdt1-geminin\C224\Plot.mlx
-3F,ND-Cdt1-geminin\C224\Plot.mlx
-S3A,MLN\E1090\plot.mlx
-S3B,MLN\E1090\plot.mlx
-S3C,ND-Cdt1-geminin\C224\Plot.mlx
-S3D,ND-Cdt1-geminin\C224\Plot.mlx
-S3E,ND-Cdt1-geminin\C224\Plot.mlx
-4A,CActerm_preext\C210\Plot.mlx
-4C,GemDbox\Plot_C206.mlx
-4D,CActerm_preext\C221\Plot.mlx
-4E,GemDbox\Plot_edu.mlx and GemDbox\Plot_C205.mlx
-S4A,CActerm_preext\C210\Plot.mlx
-S4B,GemDbox\Plot_C205.mlx
-S4C,GemDbox\Plot_C205.mlx
-S4D,GemDbox\Plot_edu.mlx
-S4E,GemDbox\Plot_edu.mlx
-5A,ND-Cdt1-damage\C212\Plot.mlx
-5B,ND-Cdt1-CDK\C130\Plot.mlx
-5C,ND-Cdt1-CDK\C130\Plot.mlx
-5D,ND-Cdt1-damage\C212\Plot.mlx
-5G,Cdc6\C195\Plot.mlx
-S5A,ND-Cdt1-CDK\C130\Plot.mlx
-S5B,Cdc6\A42\Plot.mlx
-S5C,Cdc6\C195\Plot.mlx
-S5D,Cdc6\C195\Plot.mlx
-6A,Replication factors\C198\Plot.mlx
-6B,Replication factors\C200\Plot.mlx and Replication factors\Plot_aggregate.mlx
-6C,Replication factors\C200\Plot.mlx
-6D,RPA\C150\Plot.mlx
-S6A,Replication factors\C200\Plot.mlx
-S6B,Replication factors\C226\Plot.mlx
-S6C,Replication factors\C226\Plot.mlx
-S6D,Replication factors\C200\Plot.mlx and Replication factors\C226\Plot.mlx
-S6E,Replication factors\Plot_aggregate.mlx
-7B,RPA\C150\Plot.mlx and RPA\C156\Plot.mlx
-7D,Mutants\C167\Plot.mlx
-S7A,RPA\C156\Plot.mlx
+﻿Figure,Script (within Figure_generation from code repository),Dryad Data file/folders,,
+1B,3i_dynamics\Plot_fig.mlx,'C143-PCNA3i',,
+1C,CvsN_CA\C213\Plot.mlx,'C213_data.mat',,
+1D,GemDbox\Plot_diagram.mlx,'gemDbox_alldata.mat',C205_diagram_im,
+1E,GemDbox\Plot_C206.mlx and GemDbox\Plot_cdt1.mlx,'gemDbox_alldata.mat','C206_data.mat',
+1F,IF_dynamics\C217\Plot.mlx,'C217_data.mat',,
+1G,IF_dynamics\C217\Plot.mlx,'C217_data.mat',,
+S1A,3i_dynamics\Plot_fig.mlx,'C143-PCNA3i',,
+S1B,3i_dynamics\Plot_fig.mlx,'C143-PCNA3i',,
+S1C,3i_dynamics\Plot_fig_2.mlx,'C143-PCNA3i',,
+S1E,Cdt1_mutant_deg\C230\Plot.mlx,C230_data.mat',,
+S1F,Cdt1_overexpress\C241_fixed\Plot\Analysis1.mlx,C241_Data,,
+S1G,CvsN_CA\C213\Plot.mlx,'C213_data.mat',,
+S1H,CvsN_CA\C213\Plot.mlx,'C213_data.mat',,
+S1I,CActerm_preext\C219\Plot.mlx,'C219_data.mat','C219_Images',
+2A,IF_dynamics\C204\Plot.mlx,'C204_data.mat',,
+2B,Cdt1-starve\C184\Plot.mlx,'C184_data.mat','C184_data','C184_Images'
+2C,Cdt1-starve\C184\Plot.mlx,'C184_data.mat','C184_data','C184_Images'
+2E,ND-Cdt1-cycle\C223\Plot2.mlx,'C223_data.mat','C223_Images',
+2F,ND-Cdt1-cycle\C223\Plot2.mlx,'C223_data.mat','C223_Images',
+2G,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S2A,IF_dynamics\C217\Plot.mlx and GemDbox\Plot_C206.mlx,'C217_data.mat','C206_data.mat',
+S2B,IF_dynamics\C182\Plot.mlx,'C182_data.mat',,
+S2C,EdU_control\Analysis1_A35.mlx,A35_Data',,
+S2D,IF_dynamics\C217\Plot.mlx and ,'C217_data.mat',,
+S2E,IF_dynamics\C237\Analysis1.mlx,'C237_data.mat',,
+S2F,IF_dynamics\C234\Analysis1.mlx,'C234_data.mat',,
+3A,MLN\E1037\Plot.mlx,'C1037_data.mat',,
+3B,MLN\E1037\Plot.mlx,'C1037_data.mat',,
+3C,MLN\E1086\Plot.mlx,E1086_data.mat',,
+3D,MLN\E1086\Plot.mlx,E1086_data.mat',,
+3F,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+3G,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+3H,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S3A,Cdt1-starve\C184\Plot.mlx,C184_data.mat','C184_data','C184_Images'
+S3B,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S3C,Cdt1-starve\C184\calibration\Plot.mlx,'C184_data.mat','C184_data','C184_Images'
+S3D,ND-Cdt1-dynamics\E1099\Plot.mlx,'E1099_data.mat',,
+S3F,ND-Cdt1-cycle\C222\Plot1.mlx,'C222_data.mat',,
+S3G,ND-Cdt1-cycle\C222\Plot1.mlx,'C222_data.mat',,
+S3H,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S3I,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S3J,Cdt1-starve\C226\Analysis1.mlx,C226_Data,,
+S3K,Replication factors\C124\Plot.mlx,'C124_data.mat',,
+S3L,U2OS\A59\Plot.mlx,'A59_Data',,
+S3M,HeLa\C134\Plot.mlx,'C134_data.mat',,
+4B,GemDbox\Plot_C206.mlx,C206_data.mat',,
+4D,CActerm_preext\C221\Plot.mlx,'C221_data.mat',,
+4E,GemDbox\Plot_edu.mlx and GemDbox\Plot_C205.mlx,'gemDbox_alldata.mat','C205_data.mat',
+4F,GemDbox\Plot_edu.mlx and GemDbox\Plot_C205.mlx,'gemDbox_alldata.mat','C205_data.mat',
+S4B,MLN\E1090\plot.mlx and MLN\C229\plotC229.mlx,'E1090_data.mat',C229_Data,
+S4C,MLN\E1090\plot.mlx and MLN\C229\plotC229.mlx,'E1090_data.mat',C229_Data,
+S4E,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S4F,ND-Cdt1-geminin\C224\Plot.mlx,'C224_data.mat',,
+S4G,ND-Cdt1-geminin\C224\Plot.mlx,C224_data.mat',,
+5A,ND-Cdt1-damage\C212\Plot.mlx,'C212_data.mat',,
+5B,ND-Cdt1-CDK\C130\Plot.mlx,'C130_data.mat',,
+5C,ND-Cdt1-CDK\C130\Plot.mlx,'C130_data.mat',,
+5D,ND-Cdt1-damage\C212\Plot.mlx,'C212_data.mat',,
+5H,Cdc6\C195\Plot.mlx,'C195_Data',,
+S5A,CActerm_preext\C210\Plot.mlx,'C210_data.mat',,
+S5B,CActerm_preext\C210\Plot.mlx,'C210_data.mat',,
+S5C,GemDbox\Plot_C205.mlx,gemDbox_alldata.mat,,
+S5D,GemDbox\Plot_C205.mlx,'C205_Images','gemDbox_alldata.mat',
+S5E,GemDbox\Plot_C205.mlx,'C205_Images','gemDbox_alldata.mat',
+S5F,GemDbox\Plot_edu.mlx and IF_dynamics\C217\Plot_edu.mlx,'gemDbox_alldata.mat','C217_data.mat',
+S5G,GemDbox\Plot_edu.mlx,'gemDbox_alldata.mat',,
+S5H,DHB\D123\AnalysisA2.mlx,D123_data.mat',,
+S5I,DHB\D123\AnalysisA2.mlx,'D123_data.mat',,
+S5J,DHB\D124\Plot.mlx,D124_IFdata.mat',,
+S5K,Cdc6\A42\Plot.mlx,'A42_Data',,
+S5L,Cdc6\C195\Plot.mlx,'C195_Data',,
+S5M,Cdc6\C195\Plot.mlx,'C195_Data',,
+6A,Replication factors\C198\Plot.mlx,'C198_data.mat','C198_Images',
+6B,Replication factors\C200\Plot.mlx,'C200_data.mat',,
+6C, Replication factors\Plot_aggregate.mlx,'C200_data.mat',,
+6D,Replication factors\C200\Plot.mlx,'C200_data.mat',,
+6E,RPA\C150\Plot.mlx,'C150_data.mat',,
+S6A,Replication factors\C226\Plot.mlx,'C226_data.mat','C226_Images',
+S6B,Replication factors\C200\Plot.mlx,'C200_data.mat',,
+S6C,Replication factors\C226\Plot.mlx,'C226_data.mat','C226_Images',
+S6D,Replication factors\C200\Plot.mlx and Replication factors\C226\Plot.mlx,'C226_data.mat','C226_Images','C200_data.mat'
+S6E,Replication factors\Plot_aggregate.mlx,None,,
+7B,RPA\C150\Plot.mlx and RPA\C156\Plot.mlx,'C150_data.mat','C156_data.mat',
+7E,Mutants\C167\Plot.mlx,'C167_data.mat',,
+S7A,U2OS\C228\Plot_figs.mlx, 'C228_data.mat',,
+S7B,ND-Cdt1-coloc\plot_fig_nobin.mlx,C228_Images,,
+S7C,Mutants\C167\Plot.mlx,'C167_data.mat',,
