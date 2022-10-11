@@ -1,5 +1,7 @@
 # image-analysis-ratnayeke-2022
-Analysis and plotting code used for Ratnayeke et al. 2022, Molecular Cell. Included are scripts for generating all figures in paper, as well as the timelapse and fixed microscopy image analysis pipeline used to process imaging experiments. Processed data (single-cell measurements) can be downloaded from Dryad for use in plotting scripts. Plots have been pre-generated and included in folders from the executed scripts. 
+[![DOI](https://zenodo.org/badge/458670856.svg)](https://zenodo.org/badge/latestdoi/458670856)
+Analysis and plotting code used for Ratnayeke et al. 2022, Molecular Cell. Included are scripts for generating all figures in paper, as well as the timelapse and fixed microscopy image analysis pipeline used to process imaging experiments. Processed data (single-cell measurements) can be downloaded from Dryad for use in plotting scripts. Plots have been pre-generated and included in folders from the executed scripts.
+
 
 Image analysis pipeline has primarly been  used on MCF-10A cells, and has been used on HeLa and RPE-1 cells. This pipeline has the following functionaliy:
 1) Tracking cells from time-lapse microscopy and quantification of fluorescent reporters (nuclear/cytoplasmic signals, foci analysis)
